@@ -1,0 +1,491 @@
+.homenavbarsection {
+  background-color: rgb(255, 155, 172);
+  overflow: hidden;
+  font-family: "Bree Serif", serif;
+  text-transform: uppercase;
+}
+.eng {
+  margin-left: 20px;
+}
+.num {
+  margin-left: 85px;
+}
+nav {
+  background-color: white;
+  border-radius: 20px;
+  height: 80px;
+}
+li {
+  margin-right: 20px;
+}
+.icon {
+  margin-right: 30px;
+}
+i {
+  padding: 10px;
+}
+
+.logo {
+  margin-left: 40px;
+}
+.logo img {
+  padding: 20px;
+}
+
+.ctext {
+  margin-bottom: 180px;
+  margin-left: 450px;
+  font-family: "Roboto", sans-serif;
+}
+.ctext h1 {
+  word-spacing: 12px;
+}
+.ctext p {
+  font-size: 11px;
+  text-transform: none;
+  font-weight: 600;
+  word-spacing: 2px;
+}
+
+/* secondsection */
+.categorysection {
+  background-color: wheat;
+}
+.sectiontitile h1 {
+  color: red;
+  font-size: 23px;
+  padding: 100px;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+}
+
+#forboy {
+  color: red;
+}
+.ttl {
+  padding: 50px;
+}
+#para {
+  font-size: 9px;
+}
+#mycard {
+  border-radius: 20px;
+  height: 300px;
+}
+.sideimage img {
+  margin-top: -180px;
+  margin-left: 0px;
+}
+.girlimage img {
+  margin-top: -180px;
+  margin-left: -130px;
+}
+.foot img {
+  margin-top: -60px;
+
+  margin-left: -130px;
+}
+#shopnow {
+  font-size: 12px;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* newcollectionsection */
+.head h4 {
+  color: red;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  padding: 100px;
+}
+.imageall img,
+.girlimg img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 180px;
+}
+.fa-heart {
+  color: red;
+}
+.tannav {
+  color: red;
+  border-radius: 50px;
+}
+/* moresection */
+.more {
+  margin-top: 30px;
+  border-radius: 20px;
+  height: 30px;
+  border: 1px solid red;
+  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.more p a {
+  color: black;
+  text-decoration: none;
+}
+#girlcol {
+  background-color: yellow;
+}
+#textcol {
+  background-color: purple;
+}
+.text h1 {
+  color: yellow;
+  padding: 25px;
+  font-family: "Roboto", sans-serif;
+}
+.text p {
+  font-family: "Roboto", sans-serif;
+}
+.text button {
+  border-radius: 50px;
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+.textt button {
+  border-radius: 50px;
+  width: 15%;
+  background-color: rgb(119, 16, 16);
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.tt button {
+  background-color: rgb(119, 16, 16);
+  border-radius: 20px;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  height: auto;
+  width: 160px;
+  margin-top: -40px;
+}
+.headingtoprated h2 {
+  color: red;
+  padding: 90px;
+  font-size: 23px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+.bodysection {
+  margin-top: 90px;
+}
+.instatext h2 {
+  color: red;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  margin: 90px;
+  font-size: 23px;
+}
+#bambint {
+  font-weight: bold;
+  font-size: 12pxc;
+}
+#num {
+  font-weight: bold;
+  font-size: 12px;
+  justify-content: center;
+}
+#txtt {
+  font-size: 10px;
+  justify-content: center;
+  margin-top: -13px;
+}
+#instate {
+  padding: 35px;
+}
+#mapcard {
+  margin: 100px;
+  height: 200px;
+  border-radius: 30px;
+  justify-content: center;
+}
+#chl,
+#add {
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+}
+#add {
+  font-weight: bold;
+}
+section {
+  overflow: hidden;
+}
+.vl {
+  border-left: 2px solid black;
+  height: 90px;
+  margin-top: -30px;
+}
+.ball {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.ftbtn button {
+  font-size: 15px;
+  border-radius: 20px;
+  background-color: rgb(182, 51, 51);
+  width: 200px;
+}
+#exampleInputEmail1 {
+  border-radius: 30px;
+  justify-content: center;
+}
+.topfooter {
+  background-color: springgreen;
+  min-height: 20vh;
+  padding: 60px;
+}
+.mysicon {
+  color: white;
+}
+.mainfooter {
+  background-color: #a181d6;
+  color: white;
+  padding: 100px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+.footerhead a {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+}
+#visa {
+  color: blue;
+}
+#card {
+  color: red;
+}
+
+/* mediaquery */
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .topnavbar {
+      font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  nav {
+    border-radius: 0;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+    #shipp,.num {
+     display: none;
+    }
+  }
+
+
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .sectiontitile h1 {
+    padding: 15px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .sideimage img {
+    margin-left: 130px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .girlimage img {
+    margin-left: 190px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .foot img {
+    margin-left: 110px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .ttl {
+    margin-top: 50px;
+    height: 40px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  #forboy,
+  #para,
+  #shopnow {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  #shopnow {
+    text-align: center;
+    margin-left: 90px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .head h4 {
+    padding: 25px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .nav-tabs li a {
+    padding: 10px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .more {
+    border-radius: 10px;
+    height: auto;
+    border: 1px solid red;
+    width: 30%;
+    margin-top: 40px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .more p a {
+    text-align: center;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .headingtoprated h2 {
+    color: red;
+    padding: 15px;
+    font-size: 23px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .textt button {
+    border-radius: 10px;
+    height: auto;
+    border: 1px solid red;
+    width: 30%;
+    margin-top: 40px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .instatext {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  #mapcard {
+    margin: 0px;
+
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 40px;
+    min-height: 60vh;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .vl {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .tt button {
+    justify-content: center;
+    background-color: rgb(119, 16, 16);
+    border-radius: 20px;
+    color: white;
+    padding: 15px;
+    font-size: 12px;
+    height: auto;
+    width: 160px;
+    margin-top: 0px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .topfooter {
+    background-color: springgreen;
+    min-height: 20vh;
+    padding: 50px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .ftbtn button {
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: rgb(182, 51, 51);
+    width: 100%;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .mysicon i {
+    font-size: 10px;
+    margin-top: -80px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  #copyright {
+    font-size: 10px;
+    margin-top: 60px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .mainfooter {
+    font-size: 10px;
+    min-height: 80vh;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  #mobile {
+    display: none;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  #heads {
+    font-size: 15px;
+    padding: 0px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+  .followtext,.paytext {
+      display: none;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 600px) {
+    .paymentcard,.followcard{
+        margin-top: 60px;
+    }
+  }
+  @media screen and (min-width: 320px) and (max-width: 600px) {
+ #mycarding {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+  }
+
+
+  @media screen and (min-width: 320px) and (max-width: 600px) {
+    .imageall i {
+        margin-top:-50px;
+       }
+     }
